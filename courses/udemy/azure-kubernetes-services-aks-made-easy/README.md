@@ -19,7 +19,7 @@
 | 6    | What are Docker, Dockerfile and Docker Hub?         |
 | 7    | Creating our first container app (web app), pushing it to Docker Hub and running |
 | 8    | Create our 2nd container app (troubleshooting app), push it to DockerHub and run it |
-|9     | Understanding why we need a container orchestrator, like Kubernetes|
+| 9    | Understanding why we need a container orchestrator, like Kubernetes|
 | 10   | Introduction to Kubernetes                 |
 | 11   | Kubernetes architecture                    |
 | 12   | Self-managed vs Cloud-managed Kubernetes cluster |
